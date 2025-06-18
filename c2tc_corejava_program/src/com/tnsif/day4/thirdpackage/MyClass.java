@@ -27,6 +27,4 @@ public class MyClass {
 	public String toString() {
 		return "MyClass [id=" + id + "]";
 	}
-	
 }
-
