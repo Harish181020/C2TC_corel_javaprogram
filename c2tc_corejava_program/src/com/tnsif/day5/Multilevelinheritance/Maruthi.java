@@ -1,5 +1,5 @@
 package com.tnsif.day5.Multilevelinheritance;
 
-public class Maruthi {
+public class Maruthi extends car {
 
 }
