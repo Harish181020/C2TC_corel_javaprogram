@@ -5,10 +5,11 @@ public class student   {
 	private String Name;
     private static int Id;
     private  int reg;
-    private final int x;
+    private final static int x;
     
     static 
     {
+    	x = 100;
     	System.out.println("static block executed");
     }
 	
