@@ -6,10 +6,10 @@ public class execuator {
     shape s1 = new shape();
     s1.calArea();
     
-    s1=new Square(5.3f);
+    s1=new Square(4.3f);
     s1.calArea();
     
-    s1=new Rectangle(5.4d,5.4d);
+    s1=new Rectangle(4.4d,4.4d);
     s1.calArea();
     }
 
