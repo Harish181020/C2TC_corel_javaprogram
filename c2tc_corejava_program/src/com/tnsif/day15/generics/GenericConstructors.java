@@ -1,10 +1,10 @@
 package com.tnsif.day15.generics;
 
-public class GenericConstructor {
+public class GenericConstructors {
 private double v;
 
 //Generic Constructors
-public <T extends Number>GenericConstructor(T t)
+public <T extends Number>GenericConstructors(T t)
 {
 	v=t.doubleValue();
 }
